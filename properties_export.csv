@@ -1,0 +1,306 @@
+price,status,created_at,city,_id,title
+4500000,available,2025-11-15 16:27:22.679000,Mumbai,69185c9283473dafa366b5de,Ocean View Apartment
+5200000,available,2025-11-15 16:27:22.679000,Mumbai,69185c9283473dafa366b5df,Skyline Residency
+6100000,available,2025-11-15 16:27:22.679000,Mumbai,69185c9283473dafa366b5e0,Blue Orchid Flat
+7000000,available,2025-11-15 16:27:22.679000,Mumbai,69185c9283473dafa366b5e1,Sunshine Towers
+4300000,available,2025-11-15 16:27:22.679000,Mumbai,69185c9283473dafa366b5e2,Hillcrest Home
+3900000,available,2025-11-15 16:27:22.679000,Delhi,69185c9283473dafa366b5e3,Royal Residency
+4700000,available,2025-11-15 16:27:22.679000,Delhi,69185c9283473dafa366b5e4,Green Valley Apartment
+5600000,available,2025-11-15 16:27:22.679000,Delhi,69185c9283473dafa366b5e5,Pearl Heights
+5100000,available,2025-11-15 16:27:22.679000,Delhi,69185c9283473dafa366b5e6,Urban Nest
+6000000,available,2025-11-15 16:27:22.679000,Delhi,69185c9283473dafa366b5e7,Maple Homes
+3200000,available,2025-11-15 16:27:22.679000,Pune,69185c9283473dafa366b5e8,Blossom Apartment
+3500000,available,2025-11-15 16:27:22.679000,Pune,69185c9283473dafa366b5e9,Crystal Court
+4000000,available,2025-11-15 16:27:22.679000,Pune,69185c9283473dafa366b5ea,Riverfront Flats
+3700000,available,2025-11-15 16:27:22.679000,Pune,69185c9283473dafa366b5eb,Silver Oak Homes
+4500000,available,2025-11-15 16:27:22.679000,Pune,69185c9283473dafa366b5ec,GreenStone Residency
+5500000,available,2025-11-15 16:27:22.679000,Bangalore,69185c9283473dafa366b5ed,Tech Hub Apartment
+6300000,available,2025-11-15 16:27:22.679000,Bangalore,69185c9283473dafa366b5ee,Lakeside Homes
+5900000,available,2025-11-15 16:27:22.679000,Bangalore,69185c9283473dafa366b5ef,Metro View Flats
+7000000,available,2025-11-15 16:27:22.679000,Bangalore,69185c9283473dafa366b5f0,Elite Enclave
+4800000,available,2025-11-15 16:27:22.679000,Bangalore,69185c9283473dafa366b5f1,Harmony Residency
+4100000,available,2025-11-15 16:27:22.679000,Chennai,69185c9283473dafa366b5f2,Seawind Apartment
+5200000,available,2025-11-15 16:27:22.679000,Chennai,69185c9283473dafa366b5f3,Coral Homes
+4600000,available,2025-11-15 16:27:22.679000,Chennai,69185c9283473dafa366b5f4,Marina Residency
+5800000,available,2025-11-15 16:27:22.679000,Chennai,69185c9283473dafa366b5f5,Royal Palm Flats
+6200000,available,2025-11-15 16:27:22.679000,Chennai,69185c9283473dafa366b5f6,Sapphire Towers
+3400000,available,2025-11-15 16:27:22.679000,Hyderabad,69185c9283473dafa366b5f7,Pearl Residency
+3800000,available,2025-11-15 16:27:22.679000,Hyderabad,69185c9283473dafa366b5f8,Golden Meadows
+4500000,available,2025-11-15 16:27:22.679000,Hyderabad,69185c9283473dafa366b5f9,Urban Elite Homes
+5100000,available,2025-11-15 16:27:22.679000,Hyderabad,69185c9283473dafa366b5fa,Silver Nest
+5600000,available,2025-11-15 16:27:22.679000,Hyderabad,69185c9283473dafa366b5fb,Twin Palms Residency
+3000000,available,2025-11-15 16:27:22.679000,Kolkata,69185c9283473dafa366b5fc,Eastern Heights
+3900000,available,2025-11-15 16:27:22.679000,Kolkata,69185c9283473dafa366b5fd,Riverside View
+4100000,available,2025-11-15 16:27:22.679000,Kolkata,69185c9283473dafa366b5fe,Urban Heights
+4600000,available,2025-11-15 16:27:22.679000,Kolkata,69185c9283473dafa366b5ff,Emerald Residency
+5300000,available,2025-11-15 16:27:22.679000,Kolkata,69185c9283473dafa366b600,Magnolia Apartments
+2800000,sold,2025-11-15 16:27:22.679000,Lucknow,69185c9283473dafa366b601,Metro Green Homes
+3300000,available,2025-11-15 16:27:22.679000,Lucknow,69185c9283473dafa366b602,Prime Residency
+3600000,available,2025-11-15 16:27:22.679000,Lucknow,69185c9283473dafa366b603,Rosewood Flats
+4000000,available,2025-11-15 16:27:22.679000,Lucknow,69185c9283473dafa366b604,Dream Valley Homes
+4500000,available,2025-11-15 16:27:22.679000,Lucknow,69185c9283473dafa366b605,Sapphire Residency
+2900000,available,2025-11-15 16:27:22.679000,Jaipur,69185c9283473dafa366b606,Pink City Flats
+3500000,available,2025-11-15 16:27:22.679000,Jaipur,69185c9283473dafa366b607,Royal Heritage Homes
+3800000,available,2025-11-15 16:27:22.679000,Jaipur,69185c9283473dafa366b608,Sunshine Residency
+4200000,available,2025-11-15 16:27:22.679000,Jaipur,69185c9283473dafa366b609,BlueStone Towers
+4600000,available,2025-11-15 16:27:22.679000,Jaipur,69185c9283473dafa366b60a,Golden Leaf Apartments
+3100000,available,2025-11-15 16:27:22.679000,Ahmedabad,69185c9283473dafa366b60b,City Center Apartment
+3500000,available,2025-11-15 16:27:22.679000,Ahmedabad,69185c9283473dafa366b60c,Silverline Residency
+3900000,available,2025-11-15 16:27:22.679000,Ahmedabad,69185c9283473dafa366b60d,Maple Towers
+4200000,available,2025-11-15 16:27:22.679000,Ahmedabad,69185c9283473dafa366b60e,Crystal View Homes
+4700000,available,2025-11-15 16:27:22.679000,Ahmedabad,69185c9283473dafa366b60f,Sunrise Enclave
+4500000,available,2025-11-15 17:31:21.246000,Mumbai,69186b912ab0d2a11a90eb71,Ocean View Apartment
+5200000,available,2025-11-15 17:31:21.246000,Mumbai,69186b912ab0d2a11a90eb72,Skyline Residency
+6100000,available,2025-11-15 17:31:21.246000,Mumbai,69186b912ab0d2a11a90eb73,Blue Orchid Flat
+7000000,available,2025-11-15 17:31:21.246000,Mumbai,69186b912ab0d2a11a90eb74,Sunshine Towers
+4300000,available,2025-11-15 17:31:21.246000,Mumbai,69186b912ab0d2a11a90eb75,Hillcrest Home
+3900000,available,2025-11-15 17:31:21.246000,Delhi,69186b912ab0d2a11a90eb76,Royal Residency
+4700000,available,2025-11-15 17:31:21.246000,Delhi,69186b912ab0d2a11a90eb77,Green Valley Apartment
+5600000,available,2025-11-15 17:31:21.246000,Delhi,69186b912ab0d2a11a90eb78,Pearl Heights
+5100000,available,2025-11-15 17:31:21.246000,Delhi,69186b912ab0d2a11a90eb79,Urban Nest
+6000000,available,2025-11-15 17:31:21.246000,Delhi,69186b912ab0d2a11a90eb7a,Maple Homes
+3200000,available,2025-11-15 17:31:21.246000,Pune,69186b912ab0d2a11a90eb7b,Blossom Apartment
+3500000,available,2025-11-15 17:31:21.246000,Pune,69186b912ab0d2a11a90eb7c,Crystal Court
+4000000,available,2025-11-15 17:31:21.246000,Pune,69186b912ab0d2a11a90eb7d,Riverfront Flats
+3700000,available,2025-11-15 17:31:21.246000,Pune,69186b912ab0d2a11a90eb7e,Silver Oak Homes
+4500000,available,2025-11-15 17:31:21.246000,Pune,69186b912ab0d2a11a90eb7f,GreenStone Residency
+5500000,available,2025-11-15 17:31:21.246000,Bangalore,69186b912ab0d2a11a90eb80,Tech Hub Apartment
+6300000,available,2025-11-15 17:31:21.246000,Bangalore,69186b912ab0d2a11a90eb81,Lakeside Homes
+5900000,available,2025-11-15 17:31:21.246000,Bangalore,69186b912ab0d2a11a90eb82,Metro View Flats
+7000000,available,2025-11-15 17:31:21.246000,Bangalore,69186b912ab0d2a11a90eb83,Elite Enclave
+4800000,available,2025-11-15 17:31:21.246000,Bangalore,69186b912ab0d2a11a90eb84,Harmony Residency
+4100000,available,2025-11-15 17:31:21.246000,Chennai,69186b912ab0d2a11a90eb85,Seawind Apartment
+5200000,available,2025-11-15 17:31:21.246000,Chennai,69186b912ab0d2a11a90eb86,Coral Homes
+4600000,available,2025-11-15 17:31:21.246000,Chennai,69186b912ab0d2a11a90eb87,Marina Residency
+5800000,available,2025-11-15 17:31:21.246000,Chennai,69186b912ab0d2a11a90eb88,Royal Palm Flats
+6200000,available,2025-11-15 17:31:21.246000,Chennai,69186b912ab0d2a11a90eb89,Sapphire Towers
+3400000,available,2025-11-15 17:31:21.246000,Hyderabad,69186b912ab0d2a11a90eb8a,Pearl Residency
+3800000,available,2025-11-15 17:31:21.246000,Hyderabad,69186b912ab0d2a11a90eb8b,Golden Meadows
+4500000,available,2025-11-15 17:31:21.246000,Hyderabad,69186b912ab0d2a11a90eb8c,Urban Elite Homes
+5100000,available,2025-11-15 17:31:21.246000,Hyderabad,69186b912ab0d2a11a90eb8d,Silver Nest
+5600000,available,2025-11-15 17:31:21.246000,Hyderabad,69186b912ab0d2a11a90eb8e,Twin Palms Residency
+3000000,available,2025-11-15 17:31:21.246000,Kolkata,69186b912ab0d2a11a90eb8f,Eastern Heights
+3900000,available,2025-11-15 17:31:21.246000,Kolkata,69186b912ab0d2a11a90eb90,Riverside View
+4100000,available,2025-11-15 17:31:21.246000,Kolkata,69186b912ab0d2a11a90eb91,Urban Heights
+4600000,available,2025-11-15 17:31:21.246000,Kolkata,69186b912ab0d2a11a90eb92,Emerald Residency
+5300000,available,2025-11-15 17:31:21.246000,Kolkata,69186b912ab0d2a11a90eb93,Magnolia Apartments
+2800000,available,2025-11-15 17:31:21.246000,Lucknow,69186b912ab0d2a11a90eb94,Metro Green Homes
+3300000,available,2025-11-15 17:31:21.246000,Lucknow,69186b912ab0d2a11a90eb95,Prime Residency
+3600000,available,2025-11-15 17:31:21.246000,Lucknow,69186b912ab0d2a11a90eb96,Rosewood Flats
+4000000,available,2025-11-15 17:31:21.246000,Lucknow,69186b912ab0d2a11a90eb97,Dream Valley Homes
+4500000,available,2025-11-15 17:31:21.246000,Lucknow,69186b912ab0d2a11a90eb98,Sapphire Residency
+2900000,available,2025-11-15 17:31:21.246000,Jaipur,69186b912ab0d2a11a90eb99,Pink City Flats
+3500000,available,2025-11-15 17:31:21.246000,Jaipur,69186b912ab0d2a11a90eb9a,Royal Heritage Homes
+3800000,available,2025-11-15 17:31:21.246000,Jaipur,69186b912ab0d2a11a90eb9b,Sunshine Residency
+4200000,available,2025-11-15 17:31:21.246000,Jaipur,69186b912ab0d2a11a90eb9c,BlueStone Towers
+4600000,available,2025-11-15 17:31:21.246000,Jaipur,69186b912ab0d2a11a90eb9d,Golden Leaf Apartments
+3100000,available,2025-11-15 17:31:21.246000,Ahmedabad,69186b912ab0d2a11a90eb9e,City Center Apartment
+3500000,available,2025-11-15 17:31:21.246000,Ahmedabad,69186b912ab0d2a11a90eb9f,Silverline Residency
+3900000,available,2025-11-15 17:31:21.246000,Ahmedabad,69186b912ab0d2a11a90eba0,Maple Towers
+4200000,available,2025-11-15 17:31:21.246000,Ahmedabad,69186b912ab0d2a11a90eba1,Crystal View Homes
+4700000,available,2025-11-15 17:31:21.246000,Ahmedabad,69186b912ab0d2a11a90eba2,Sunrise Enclave
+1000,available,2025-11-15 12:02:12.629000,haridwar,69186bc4681d66c51b936fdd,mr
+4000000,available,2025-11-15 12:07:10.738000,noida,69186cee681d66c51b936fde,flat
+4500000,available,2025-11-15 23:29:02.815000,Mumbai,6918bf664fbb05df2ca3a511,Ocean View Apartment
+5200000,available,2025-11-15 23:29:02.815000,Mumbai,6918bf664fbb05df2ca3a512,Skyline Residency
+6100000,available,2025-11-15 23:29:02.815000,Mumbai,6918bf664fbb05df2ca3a513,Blue Orchid Flat
+7000000,available,2025-11-15 23:29:02.815000,Mumbai,6918bf664fbb05df2ca3a514,Sunshine Towers
+4300000,available,2025-11-15 23:29:02.815000,Mumbai,6918bf664fbb05df2ca3a515,Hillcrest Home
+3900000,available,2025-11-15 23:29:02.815000,Delhi,6918bf664fbb05df2ca3a516,Royal Residency
+4700000,available,2025-11-15 23:29:02.815000,Delhi,6918bf664fbb05df2ca3a517,Green Valley Apartment
+5600000,available,2025-11-15 23:29:02.815000,Delhi,6918bf664fbb05df2ca3a518,Pearl Heights
+5100000,available,2025-11-15 23:29:02.815000,Delhi,6918bf664fbb05df2ca3a519,Urban Nest
+6000000,available,2025-11-15 23:29:02.815000,Delhi,6918bf664fbb05df2ca3a51a,Maple Homes
+3200000,available,2025-11-15 23:29:02.815000,Pune,6918bf664fbb05df2ca3a51b,Blossom Apartment
+3500000,available,2025-11-15 23:29:02.815000,Pune,6918bf664fbb05df2ca3a51c,Crystal Court
+4000000,available,2025-11-15 23:29:02.815000,Pune,6918bf664fbb05df2ca3a51d,Riverfront Flats
+3700000,available,2025-11-15 23:29:02.815000,Pune,6918bf664fbb05df2ca3a51e,Silver Oak Homes
+4500000,available,2025-11-15 23:29:02.815000,Pune,6918bf664fbb05df2ca3a51f,GreenStone Residency
+5500000,available,2025-11-15 23:29:02.815000,Bangalore,6918bf664fbb05df2ca3a520,Tech Hub Apartment
+6300000,available,2025-11-15 23:29:02.815000,Bangalore,6918bf664fbb05df2ca3a521,Lakeside Homes
+5900000,available,2025-11-15 23:29:02.815000,Bangalore,6918bf664fbb05df2ca3a522,Metro View Flats
+7000000,available,2025-11-15 23:29:02.815000,Bangalore,6918bf664fbb05df2ca3a523,Elite Enclave
+4800000,available,2025-11-15 23:29:02.815000,Bangalore,6918bf664fbb05df2ca3a524,Harmony Residency
+4100000,available,2025-11-15 23:29:02.815000,Chennai,6918bf664fbb05df2ca3a525,Seawind Apartment
+5200000,available,2025-11-15 23:29:02.815000,Chennai,6918bf664fbb05df2ca3a526,Coral Homes
+4600000,available,2025-11-15 23:29:02.815000,Chennai,6918bf664fbb05df2ca3a527,Marina Residency
+5800000,available,2025-11-15 23:29:02.815000,Chennai,6918bf664fbb05df2ca3a528,Royal Palm Flats
+6200000,available,2025-11-15 23:29:02.815000,Chennai,6918bf664fbb05df2ca3a529,Sapphire Towers
+3400000,available,2025-11-15 23:29:02.815000,Hyderabad,6918bf664fbb05df2ca3a52a,Pearl Residency
+3800000,available,2025-11-15 23:29:02.815000,Hyderabad,6918bf664fbb05df2ca3a52b,Golden Meadows
+4500000,available,2025-11-15 23:29:02.815000,Hyderabad,6918bf664fbb05df2ca3a52c,Urban Elite Homes
+5100000,available,2025-11-15 23:29:02.815000,Hyderabad,6918bf664fbb05df2ca3a52d,Silver Nest
+5600000,available,2025-11-15 23:29:02.815000,Hyderabad,6918bf664fbb05df2ca3a52e,Twin Palms Residency
+3000000,available,2025-11-15 23:29:02.815000,Kolkata,6918bf664fbb05df2ca3a52f,Eastern Heights
+3900000,available,2025-11-15 23:29:02.815000,Kolkata,6918bf664fbb05df2ca3a530,Riverside View
+4100000,available,2025-11-15 23:29:02.815000,Kolkata,6918bf664fbb05df2ca3a531,Urban Heights
+4600000,available,2025-11-15 23:29:02.815000,Kolkata,6918bf664fbb05df2ca3a532,Emerald Residency
+5300000,available,2025-11-15 23:29:02.815000,Kolkata,6918bf664fbb05df2ca3a533,Magnolia Apartments
+2800000,available,2025-11-15 23:29:02.815000,Lucknow,6918bf664fbb05df2ca3a534,Metro Green Homes
+3300000,available,2025-11-15 23:29:02.815000,Lucknow,6918bf664fbb05df2ca3a535,Prime Residency
+3600000,available,2025-11-15 23:29:02.815000,Lucknow,6918bf664fbb05df2ca3a536,Rosewood Flats
+4000000,available,2025-11-15 23:29:02.815000,Lucknow,6918bf664fbb05df2ca3a537,Dream Valley Homes
+4500000,available,2025-11-15 23:29:02.815000,Lucknow,6918bf664fbb05df2ca3a538,Sapphire Residency
+2900000,available,2025-11-15 23:29:02.815000,Jaipur,6918bf664fbb05df2ca3a539,Pink City Flats
+3500000,available,2025-11-15 23:29:02.815000,Jaipur,6918bf664fbb05df2ca3a53a,Royal Heritage Homes
+3800000,available,2025-11-15 23:29:02.815000,Jaipur,6918bf664fbb05df2ca3a53b,Sunshine Residency
+4200000,available,2025-11-15 23:29:02.815000,Jaipur,6918bf664fbb05df2ca3a53c,BlueStone Towers
+4600000,available,2025-11-15 23:29:02.815000,Jaipur,6918bf664fbb05df2ca3a53d,Golden Leaf Apartments
+3100000,available,2025-11-15 23:29:02.815000,Ahmedabad,6918bf664fbb05df2ca3a53e,City Center Apartment
+3500000,available,2025-11-15 23:29:02.815000,Ahmedabad,6918bf664fbb05df2ca3a53f,Silverline Residency
+3900000,available,2025-11-15 23:29:02.815000,Ahmedabad,6918bf664fbb05df2ca3a540,Maple Towers
+4200000,available,2025-11-15 23:29:02.815000,Ahmedabad,6918bf664fbb05df2ca3a541,Crystal View Homes
+4700000,available,2025-11-15 23:29:02.815000,Ahmedabad,6918bf664fbb05df2ca3a542,Sunrise Enclave
+4500000,available,2025-11-15 23:40:36.308000,Mumbai,6918c21c8ce1622980dc2eb5,Ocean View Apartment
+5200000,available,2025-11-15 23:40:36.308000,Mumbai,6918c21c8ce1622980dc2eb6,Skyline Residency
+6100000,available,2025-11-15 23:40:36.308000,Mumbai,6918c21c8ce1622980dc2eb7,Blue Orchid Flat
+7000000,available,2025-11-15 23:40:36.308000,Mumbai,6918c21c8ce1622980dc2eb8,Sunshine Towers
+4300000,available,2025-11-15 23:40:36.308000,Mumbai,6918c21c8ce1622980dc2eb9,Hillcrest Home
+3900000,available,2025-11-15 23:40:36.308000,Delhi,6918c21c8ce1622980dc2eba,Royal Residency
+4700000,available,2025-11-15 23:40:36.308000,Delhi,6918c21c8ce1622980dc2ebb,Green Valley Apartment
+5600000,available,2025-11-15 23:40:36.308000,Delhi,6918c21c8ce1622980dc2ebc,Pearl Heights
+5100000,available,2025-11-15 23:40:36.308000,Delhi,6918c21c8ce1622980dc2ebd,Urban Nest
+6000000,available,2025-11-15 23:40:36.308000,Delhi,6918c21c8ce1622980dc2ebe,Maple Homes
+3200000,available,2025-11-15 23:40:36.308000,Pune,6918c21c8ce1622980dc2ebf,Blossom Apartment
+3500000,available,2025-11-15 23:40:36.308000,Pune,6918c21c8ce1622980dc2ec0,Crystal Court
+4000000,available,2025-11-15 23:40:36.308000,Pune,6918c21c8ce1622980dc2ec1,Riverfront Flats
+3700000,available,2025-11-15 23:40:36.308000,Pune,6918c21c8ce1622980dc2ec2,Silver Oak Homes
+4500000,available,2025-11-15 23:40:36.308000,Pune,6918c21c8ce1622980dc2ec3,GreenStone Residency
+5500000,available,2025-11-15 23:40:36.308000,Bangalore,6918c21c8ce1622980dc2ec4,Tech Hub Apartment
+6300000,available,2025-11-15 23:40:36.308000,Bangalore,6918c21c8ce1622980dc2ec5,Lakeside Homes
+5900000,available,2025-11-15 23:40:36.308000,Bangalore,6918c21c8ce1622980dc2ec6,Metro View Flats
+7000000,available,2025-11-15 23:40:36.308000,Bangalore,6918c21c8ce1622980dc2ec7,Elite Enclave
+4800000,available,2025-11-15 23:40:36.308000,Bangalore,6918c21c8ce1622980dc2ec8,Harmony Residency
+4100000,available,2025-11-15 23:40:36.308000,Chennai,6918c21c8ce1622980dc2ec9,Seawind Apartment
+5200000,available,2025-11-15 23:40:36.308000,Chennai,6918c21c8ce1622980dc2eca,Coral Homes
+4600000,available,2025-11-15 23:40:36.308000,Chennai,6918c21c8ce1622980dc2ecb,Marina Residency
+5800000,available,2025-11-15 23:40:36.308000,Chennai,6918c21c8ce1622980dc2ecc,Royal Palm Flats
+6200000,available,2025-11-15 23:40:36.308000,Chennai,6918c21c8ce1622980dc2ecd,Sapphire Towers
+3400000,available,2025-11-15 23:40:36.308000,Hyderabad,6918c21c8ce1622980dc2ece,Pearl Residency
+3800000,available,2025-11-15 23:40:36.308000,Hyderabad,6918c21c8ce1622980dc2ecf,Golden Meadows
+4500000,available,2025-11-15 23:40:36.308000,Hyderabad,6918c21c8ce1622980dc2ed0,Urban Elite Homes
+5100000,available,2025-11-15 23:40:36.308000,Hyderabad,6918c21c8ce1622980dc2ed1,Silver Nest
+5600000,available,2025-11-15 23:40:36.308000,Hyderabad,6918c21c8ce1622980dc2ed2,Twin Palms Residency
+3000000,available,2025-11-15 23:40:36.308000,Kolkata,6918c21c8ce1622980dc2ed3,Eastern Heights
+3900000,available,2025-11-15 23:40:36.308000,Kolkata,6918c21c8ce1622980dc2ed4,Riverside View
+4100000,available,2025-11-15 23:40:36.308000,Kolkata,6918c21c8ce1622980dc2ed5,Urban Heights
+4600000,available,2025-11-15 23:40:36.308000,Kolkata,6918c21c8ce1622980dc2ed6,Emerald Residency
+5300000,available,2025-11-15 23:40:36.308000,Kolkata,6918c21c8ce1622980dc2ed7,Magnolia Apartments
+2800000,available,2025-11-15 23:40:36.308000,Lucknow,6918c21c8ce1622980dc2ed8,Metro Green Homes
+3300000,available,2025-11-15 23:40:36.308000,Lucknow,6918c21c8ce1622980dc2ed9,Prime Residency
+3600000,available,2025-11-15 23:40:36.308000,Lucknow,6918c21c8ce1622980dc2eda,Rosewood Flats
+4000000,available,2025-11-15 23:40:36.308000,Lucknow,6918c21c8ce1622980dc2edb,Dream Valley Homes
+4500000,available,2025-11-15 23:40:36.308000,Lucknow,6918c21c8ce1622980dc2edc,Sapphire Residency
+2900000,available,2025-11-15 23:40:36.308000,Jaipur,6918c21c8ce1622980dc2edd,Pink City Flats
+3500000,available,2025-11-15 23:40:36.308000,Jaipur,6918c21c8ce1622980dc2ede,Royal Heritage Homes
+3800000,available,2025-11-15 23:40:36.308000,Jaipur,6918c21c8ce1622980dc2edf,Sunshine Residency
+4200000,available,2025-11-15 23:40:36.308000,Jaipur,6918c21c8ce1622980dc2ee0,BlueStone Towers
+4600000,available,2025-11-15 23:40:36.308000,Jaipur,6918c21c8ce1622980dc2ee1,Golden Leaf Apartments
+3100000,available,2025-11-15 23:40:36.308000,Ahmedabad,6918c21c8ce1622980dc2ee2,City Center Apartment
+3500000,available,2025-11-15 23:40:36.308000,Ahmedabad,6918c21c8ce1622980dc2ee3,Silverline Residency
+3900000,available,2025-11-15 23:40:36.308000,Ahmedabad,6918c21c8ce1622980dc2ee4,Maple Towers
+4200000,available,2025-11-15 23:40:36.308000,Ahmedabad,6918c21c8ce1622980dc2ee5,Crystal View Homes
+4700000,available,2025-11-15 23:40:36.308000,Ahmedabad,6918c21c8ce1622980dc2ee6,Sunrise Enclave
+4500000,available,2025-11-16 00:36:56.722000,Mumbai,6918cf508c80ffdb6b0bff5e,Ocean View Apartment
+5200000,available,2025-11-16 00:36:56.722000,Mumbai,6918cf508c80ffdb6b0bff5f,Skyline Residency
+6100000,available,2025-11-16 00:36:56.722000,Mumbai,6918cf508c80ffdb6b0bff60,Blue Orchid Flat
+7000000,available,2025-11-16 00:36:56.722000,Mumbai,6918cf508c80ffdb6b0bff61,Sunshine Towers
+4300000,available,2025-11-16 00:36:56.722000,Mumbai,6918cf508c80ffdb6b0bff62,Hillcrest Home
+3900000,available,2025-11-16 00:36:56.722000,Delhi,6918cf508c80ffdb6b0bff63,Royal Residency
+4700000,available,2025-11-16 00:36:56.722000,Delhi,6918cf508c80ffdb6b0bff64,Green Valley Apartment
+5600000,available,2025-11-16 00:36:56.722000,Delhi,6918cf508c80ffdb6b0bff65,Pearl Heights
+5100000,available,2025-11-16 00:36:56.722000,Delhi,6918cf508c80ffdb6b0bff66,Urban Nest
+6000000,available,2025-11-16 00:36:56.722000,Delhi,6918cf508c80ffdb6b0bff67,Maple Homes
+3200000,available,2025-11-16 00:36:56.722000,Pune,6918cf508c80ffdb6b0bff68,Blossom Apartment
+3500000,available,2025-11-16 00:36:56.722000,Pune,6918cf508c80ffdb6b0bff69,Crystal Court
+4000000,available,2025-11-16 00:36:56.722000,Pune,6918cf508c80ffdb6b0bff6a,Riverfront Flats
+3700000,available,2025-11-16 00:36:56.722000,Pune,6918cf508c80ffdb6b0bff6b,Silver Oak Homes
+4500000,available,2025-11-16 00:36:56.722000,Pune,6918cf508c80ffdb6b0bff6c,GreenStone Residency
+5500000,available,2025-11-16 00:36:56.722000,Bangalore,6918cf508c80ffdb6b0bff6d,Tech Hub Apartment
+6300000,available,2025-11-16 00:36:56.722000,Bangalore,6918cf508c80ffdb6b0bff6e,Lakeside Homes
+5900000,available,2025-11-16 00:36:56.722000,Bangalore,6918cf508c80ffdb6b0bff6f,Metro View Flats
+7000000,available,2025-11-16 00:36:56.722000,Bangalore,6918cf508c80ffdb6b0bff70,Elite Enclave
+4800000,available,2025-11-16 00:36:56.722000,Bangalore,6918cf508c80ffdb6b0bff71,Harmony Residency
+4100000,available,2025-11-16 00:36:56.722000,Chennai,6918cf508c80ffdb6b0bff72,Seawind Apartment
+5200000,available,2025-11-16 00:36:56.722000,Chennai,6918cf508c80ffdb6b0bff73,Coral Homes
+4600000,available,2025-11-16 00:36:56.722000,Chennai,6918cf508c80ffdb6b0bff74,Marina Residency
+5800000,available,2025-11-16 00:36:56.722000,Chennai,6918cf508c80ffdb6b0bff75,Royal Palm Flats
+6200000,available,2025-11-16 00:36:56.722000,Chennai,6918cf508c80ffdb6b0bff76,Sapphire Towers
+3400000,available,2025-11-16 00:36:56.722000,Hyderabad,6918cf508c80ffdb6b0bff77,Pearl Residency
+3800000,available,2025-11-16 00:36:56.722000,Hyderabad,6918cf508c80ffdb6b0bff78,Golden Meadows
+4500000,available,2025-11-16 00:36:56.722000,Hyderabad,6918cf508c80ffdb6b0bff79,Urban Elite Homes
+5100000,available,2025-11-16 00:36:56.722000,Hyderabad,6918cf508c80ffdb6b0bff7a,Silver Nest
+5600000,available,2025-11-16 00:36:56.722000,Hyderabad,6918cf508c80ffdb6b0bff7b,Twin Palms Residency
+3000000,available,2025-11-16 00:36:56.722000,Kolkata,6918cf508c80ffdb6b0bff7c,Eastern Heights
+3900000,available,2025-11-16 00:36:56.722000,Kolkata,6918cf508c80ffdb6b0bff7d,Riverside View
+4100000,available,2025-11-16 00:36:56.722000,Kolkata,6918cf508c80ffdb6b0bff7e,Urban Heights
+4600000,available,2025-11-16 00:36:56.722000,Kolkata,6918cf508c80ffdb6b0bff7f,Emerald Residency
+5300000,available,2025-11-16 00:36:56.722000,Kolkata,6918cf508c80ffdb6b0bff80,Magnolia Apartments
+2800000,available,2025-11-16 00:36:56.722000,Lucknow,6918cf508c80ffdb6b0bff81,Metro Green Homes
+3300000,available,2025-11-16 00:36:56.722000,Lucknow,6918cf508c80ffdb6b0bff82,Prime Residency
+3600000,available,2025-11-16 00:36:56.722000,Lucknow,6918cf508c80ffdb6b0bff83,Rosewood Flats
+4000000,available,2025-11-16 00:36:56.722000,Lucknow,6918cf508c80ffdb6b0bff84,Dream Valley Homes
+4500000,available,2025-11-16 00:36:56.722000,Lucknow,6918cf508c80ffdb6b0bff85,Sapphire Residency
+2900000,available,2025-11-16 00:36:56.722000,Jaipur,6918cf508c80ffdb6b0bff86,Pink City Flats
+3500000,available,2025-11-16 00:36:56.722000,Jaipur,6918cf508c80ffdb6b0bff87,Royal Heritage Homes
+3800000,available,2025-11-16 00:36:56.722000,Jaipur,6918cf508c80ffdb6b0bff88,Sunshine Residency
+4200000,available,2025-11-16 00:36:56.722000,Jaipur,6918cf508c80ffdb6b0bff89,BlueStone Towers
+4600000,available,2025-11-16 00:36:56.722000,Jaipur,6918cf508c80ffdb6b0bff8a,Golden Leaf Apartments
+3100000,available,2025-11-16 00:36:56.722000,Ahmedabad,6918cf508c80ffdb6b0bff8b,City Center Apartment
+3500000,available,2025-11-16 00:36:56.722000,Ahmedabad,6918cf508c80ffdb6b0bff8c,Silverline Residency
+3900000,available,2025-11-16 00:36:56.722000,Ahmedabad,6918cf508c80ffdb6b0bff8d,Maple Towers
+4200000,available,2025-11-16 00:36:56.722000,Ahmedabad,6918cf508c80ffdb6b0bff8e,Crystal View Homes
+4700000,available,2025-11-16 00:36:56.722000,Ahmedabad,6918cf508c80ffdb6b0bff8f,Sunrise Enclave
+4000000,available,2025-11-15 19:19:31.196000,gurugram,6918d2430c01b9e0387a55ec,dlf
+4500000,available,2025-11-16 01:06:42.491000,Mumbai,6918d64a339174e72f1875ad,Ocean View Apartment
+5200000,available,2025-11-16 01:06:42.491000,Mumbai,6918d64a339174e72f1875ae,Skyline Residency
+6100000,available,2025-11-16 01:06:42.491000,Mumbai,6918d64a339174e72f1875af,Blue Orchid Flat
+7000000,available,2025-11-16 01:06:42.491000,Mumbai,6918d64a339174e72f1875b0,Sunshine Towers
+4300000,available,2025-11-16 01:06:42.491000,Mumbai,6918d64a339174e72f1875b1,Hillcrest Home
+3900000,available,2025-11-16 01:06:42.491000,Delhi,6918d64a339174e72f1875b2,Royal Residency
+4700000,available,2025-11-16 01:06:42.491000,Delhi,6918d64a339174e72f1875b3,Green Valley Apartment
+5600000,available,2025-11-16 01:06:42.491000,Delhi,6918d64a339174e72f1875b4,Pearl Heights
+5100000,available,2025-11-16 01:06:42.491000,Delhi,6918d64a339174e72f1875b5,Urban Nest
+6000000,available,2025-11-16 01:06:42.491000,Delhi,6918d64a339174e72f1875b6,Maple Homes
+3200000,available,2025-11-16 01:06:42.491000,Pune,6918d64a339174e72f1875b7,Blossom Apartment
+3500000,available,2025-11-16 01:06:42.491000,Pune,6918d64a339174e72f1875b8,Crystal Court
+4000000,available,2025-11-16 01:06:42.491000,Pune,6918d64a339174e72f1875b9,Riverfront Flats
+3700000,available,2025-11-16 01:06:42.491000,Pune,6918d64a339174e72f1875ba,Silver Oak Homes
+4500000,available,2025-11-16 01:06:42.491000,Pune,6918d64a339174e72f1875bb,GreenStone Residency
+5500000,available,2025-11-16 01:06:42.491000,Bangalore,6918d64a339174e72f1875bc,Tech Hub Apartment
+6300000,available,2025-11-16 01:06:42.491000,Bangalore,6918d64a339174e72f1875bd,Lakeside Homes
+5900000,available,2025-11-16 01:06:42.491000,Bangalore,6918d64a339174e72f1875be,Metro View Flats
+7000000,available,2025-11-16 01:06:42.491000,Bangalore,6918d64a339174e72f1875bf,Elite Enclave
+4800000,available,2025-11-16 01:06:42.491000,Bangalore,6918d64a339174e72f1875c0,Harmony Residency
+4100000,available,2025-11-16 01:06:42.491000,Chennai,6918d64a339174e72f1875c1,Seawind Apartment
+5200000,available,2025-11-16 01:06:42.491000,Chennai,6918d64a339174e72f1875c2,Coral Homes
+4600000,available,2025-11-16 01:06:42.491000,Chennai,6918d64a339174e72f1875c3,Marina Residency
+5800000,available,2025-11-16 01:06:42.491000,Chennai,6918d64a339174e72f1875c4,Royal Palm Flats
+6200000,available,2025-11-16 01:06:42.491000,Chennai,6918d64a339174e72f1875c5,Sapphire Towers
+3400000,available,2025-11-16 01:06:42.491000,Hyderabad,6918d64a339174e72f1875c6,Pearl Residency
+3800000,available,2025-11-16 01:06:42.491000,Hyderabad,6918d64a339174e72f1875c7,Golden Meadows
+4500000,available,2025-11-16 01:06:42.491000,Hyderabad,6918d64a339174e72f1875c8,Urban Elite Homes
+5100000,available,2025-11-16 01:06:42.491000,Hyderabad,6918d64a339174e72f1875c9,Silver Nest
+5600000,available,2025-11-16 01:06:42.491000,Hyderabad,6918d64a339174e72f1875ca,Twin Palms Residency
+3000000,available,2025-11-16 01:06:42.491000,Kolkata,6918d64a339174e72f1875cb,Eastern Heights
+3900000,available,2025-11-16 01:06:42.491000,Kolkata,6918d64a339174e72f1875cc,Riverside View
+4100000,available,2025-11-16 01:06:42.491000,Kolkata,6918d64a339174e72f1875cd,Urban Heights
+4600000,available,2025-11-16 01:06:42.491000,Kolkata,6918d64a339174e72f1875ce,Emerald Residency
+5300000,available,2025-11-16 01:06:42.491000,Kolkata,6918d64a339174e72f1875cf,Magnolia Apartments
+2800000,available,2025-11-16 01:06:42.491000,Lucknow,6918d64a339174e72f1875d0,Metro Green Homes
+3300000,available,2025-11-16 01:06:42.491000,Lucknow,6918d64a339174e72f1875d1,Prime Residency
+3600000,available,2025-11-16 01:06:42.491000,Lucknow,6918d64a339174e72f1875d2,Rosewood Flats
+4000000,available,2025-11-16 01:06:42.491000,Lucknow,6918d64a339174e72f1875d3,Dream Valley Homes
+4500000,available,2025-11-16 01:06:42.491000,Lucknow,6918d64a339174e72f1875d4,Sapphire Residency
+2900000,available,2025-11-16 01:06:42.491000,Jaipur,6918d64a339174e72f1875d5,Pink City Flats
+3500000,available,2025-11-16 01:06:42.491000,Jaipur,6918d64a339174e72f1875d6,Royal Heritage Homes
+3800000,available,2025-11-16 01:06:42.491000,Jaipur,6918d64a339174e72f1875d7,Sunshine Residency
+4200000,available,2025-11-16 01:06:42.491000,Jaipur,6918d64a339174e72f1875d8,BlueStone Towers
+4600000,available,2025-11-16 01:06:42.491000,Jaipur,6918d64a339174e72f1875d9,Golden Leaf Apartments
+3100000,available,2025-11-16 01:06:42.491000,Ahmedabad,6918d64a339174e72f1875da,City Center Apartment
+3500000,available,2025-11-16 01:06:42.491000,Ahmedabad,6918d64a339174e72f1875db,Silverline Residency
+3900000,available,2025-11-16 01:06:42.491000,Ahmedabad,6918d64a339174e72f1875dc,Maple Towers
+4200000,available,2025-11-16 01:06:42.491000,Ahmedabad,6918d64a339174e72f1875dd,Crystal View Homes
+4700000,available,2025-11-16 01:06:42.491000,Ahmedabad,6918d64a339174e72f1875de,Sunrise Enclave
+10000,sold,2025-11-15 19:47:18.943000,rohtak,6918d8c69d435c3ba7a38717,red city Flats
+200000,available,2025-11-15 21:00:51.799000,delhi,6918ea03ba22deead317dce1,dlf
